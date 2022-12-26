@@ -21,12 +21,6 @@ body {
   transition: 1s;
 }
 
-.btn {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
-
 .card:active {
   transform: rotate(-5deg);
 }
