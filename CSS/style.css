@@ -27,10 +27,6 @@ body {
   margin-top: 20px;
 }
 
-button {
-  width: 90%;
-  height: 40px;
-}
 .card:active {
   transform: rotate(-5deg);
 }
@@ -142,7 +138,7 @@ button {
   margin: auto;
   left: 0;
   right: 0;
-  bottom: 263px;
+  bottom: 225px;
 }
 
 .candle::before {
