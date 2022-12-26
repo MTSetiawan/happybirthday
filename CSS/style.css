@@ -21,6 +21,10 @@ body {
   transition: 1s;
 }
 
+button {
+  opacity: 0;
+}
+
 .card:active {
   transform: rotate(-5deg);
 }
